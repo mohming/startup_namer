@@ -1,6 +1,7 @@
 # startup_namer
 
-#30daysOfFlutter Building your first Flutter app, part 1
+#30daysOfFlutter Building your first Flutter app, part 1 and part 2
+https://events.withgoogle.com/30-daysofflutter/content-resources/#content
 
 ## Getting Started
 
